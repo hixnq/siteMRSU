@@ -1,0 +1,19 @@
+{
+  "name": "nizovkin",
+  "version": "1.0.0",
+  "description": "site created by nz",
+  "main": "index.html",
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [
+    "mrsu",
+    "nizovkin",
+    "var30"
+  ],
+  "author": "Evgeny Nizovkin",
+  "license": "ISC",
+  "dependencies": {
+    "owl.carousel": "^2.3.4"
+  }
+}
