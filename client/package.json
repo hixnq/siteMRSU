@@ -14,6 +14,5 @@
   "author": "Evgeny Nizovkin",
   "license": "ISC",
   "dependencies": {
-    "owl.carousel": "^2.3.4"
   }
 }
