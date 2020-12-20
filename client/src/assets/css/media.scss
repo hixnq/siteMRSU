@@ -1,0 +1,161 @@
+$Laptop-L: 1440px;
+$Laptop: 1024px;
+
+@media (max-width: $Laptop-L) {
+  .categories__slider {
+    height: 590px !important;
+  }
+
+  .footer-links__link {
+    margin-left: 32px !important;
+  }
+
+  .trips__text {
+    font-size: 33px !important;
+  }
+
+  .trips__heading {
+    font-size: 53px;
+  }
+
+  .choose-trip__input {
+    width: 250px !important;
+    height: 50px !important;
+  }
+
+  .choose-trip__button {
+    width: 250px !important;
+    height: 50px !important;
+  }
+
+  .travels__heading {
+    font-size: 29px !important;
+  }
+
+  .travels__about {
+    font-size: 20px !important;
+  }
+}
+
+@media (max-width: $Laptop) {
+  .header__logo {
+    img {
+      width: 90px;
+    }
+  }
+
+  .navigation__link {
+    margin-left: 40px !important;
+  }
+
+  .container {
+    width: 80% !important;
+  }
+
+  .header__btn-signin {
+    padding: 5px 15px !important;
+    font-size: 16px !important;
+  }
+
+  .trips__choose-trip {
+    flex-direction: column !important;
+  }
+
+  .choose-trip__input {
+    margin-right: 0 !important;
+    margin-bottom: 45px !important;
+  }
+
+  .footer__container {
+    width: 75%;
+  }
+  .trips__text {
+    font-size: 25px !important;
+  }
+
+  .trips__heading {
+    font-size: 40px !important;
+    margin-bottom: 50px !important;
+  }
+
+  .categories {
+    height: 1074px !important;
+  }
+
+  .categories__heading {
+    font-size: 40px !important;
+  }
+  .categories__about {
+    font-size: 19px !important;
+  }
+
+  .experiences__heading {
+    font-size: 40px !important;
+  }
+  .experiences__about {
+    font-size: 19px !important;
+  }
+  .categories__slider-item {
+    min-width: 372px !important;
+    height: 400px !important;
+  }
+
+  .categories__slider {
+    height: 500px !important;
+  }
+
+  .videos__heading {
+    font-size: 40px !important;
+  }
+  .videos__about {
+    font-size: 19px !important;
+  }
+
+  .videos__player {
+    height: 45% !important;
+  }
+
+  .videos {
+    height: 800px !important;
+  }
+
+  .video-list__video {
+    img {
+      width: 140px !important;
+      height: 80px !important;
+    }
+    .video__heading {
+      font-size: 13px !important;
+      font-weight: 600 !important;
+    }
+
+    .video__duration {
+      font-size: 11px;
+    }
+  }
+
+  .travels__slider-block {
+    height: 450px !important;
+  }
+
+  .travels__heading {
+    font-size: 21px !important;
+    line-height: 40px !important;
+  }
+
+  .travels__about {
+    font-size: 15px !important;
+    line-height: 35px !important;
+  }
+
+    .header-main__heading {
+      font-size: 50px !important;
+    }
+    .header-main__text {
+      font-size: 16px !important;
+    }
+  
+  .header-main {
+    min-height: 600px !important;
+  }
+}

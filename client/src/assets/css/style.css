@@ -31,7 +31,7 @@ body {
 
 .header-nav .container {
   margin: 0 auto;
-  width: 80%;
+  width: 75%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -130,7 +130,7 @@ body {
 }
 
 .header-main .header-main__left .header-main-wrapper .header-main__heading {
-  font-weight: 800;
+  font-weight: 500;
   font-size: 60px;
   color: #091e40;
   line-height: 60px;
@@ -295,7 +295,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin: 5%;
+  margin: 5% 5% 0 5%;
 }
 
 .travels .travels__right .travels__heading {
@@ -362,7 +362,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  min-width: 85%;
+  width: 85%;
   height: 100%;
 }
 
@@ -763,14 +763,14 @@ body {
   color: #ffffff;
   font-size: 39px;
   font-weight: 600;
-  line-height: 47.89px;
+  line-height: 10px;
   text-transform: uppercase;
   margin-bottom: 34px;
 }
 
 .trips .trips__container .trips__heading {
   font-size: 60px;
-  font-weight: 800;
+  font-weight: 500;
   line-height: 75.85px;
   letter-spacing: 0.5px;
   color: #ffffff;
